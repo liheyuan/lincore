@@ -9,6 +9,6 @@
 
 int main()
 {
-	printf("Hello, LinCore.");
+	printf("Hello, LinCore.\n");
 	return 0;
 }
