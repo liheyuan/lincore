@@ -5,7 +5,10 @@
  *      Author: liheyuan
  */
 
+#include <stdio.h>
+
 int main()
 {
+	printf("Hello, LinCore.");
 	return 0;
 }
